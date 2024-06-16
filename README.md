@@ -1,2 +1,3 @@
-# okk-rust
-okk-rust
+# Iniciando em Rust
+
+Iniciando o estudo da linguagem Rust!
