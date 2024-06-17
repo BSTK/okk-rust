@@ -1,7 +1,6 @@
 const PONTUACAO_MAXIMA: u32 = 100_000;
 
 fn main() {
-
     dados_imutaveis();
     dados_mutaveis();
     constantes();
