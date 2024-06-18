@@ -7,7 +7,6 @@ fn main() {
 
     println!("--------------------------------------------------------------------");
     declaracao_expressooes();
-
 }
 
 fn exibir_descricao_completa(
